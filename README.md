@@ -16,11 +16,11 @@
     <img src="https://komarev.com/ghpvc/?username=NuoLeiNYU&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋
+### 👋 Hi there 
 
 I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New York University. I love the satisfaction of delivering meaningful **insights** from real-world data👨‍💻. And I also enjoy the beauty of concise but informative **data visualization**📈.
 
-### More about me:
+### 👔 More about me:
 - 🎓 Education: Current **data science** graduate student at [NYU Center for Data Science](https://cds.nyu.edu/). Undergraduate student at [UIBE](http://english.uibe.edu.cn/) major in **financial mathematics**. 
 - 📫 How to reach me: nuo.lei@nyu.edu or [![Linkedin Badge](https://img.shields.io/badge/-NuoLei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nuo-lei/)
 - 😄 Pronouns: He/him/his
@@ -28,19 +28,38 @@ I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New 
 
 ### 🛠️ Languages and Tools:
 
-<div>
+<div id="language" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
   <img src="https://static.bokeh.org/branding/logos/bokeh-logo.svg" title="Bokeh" alt="Bokeh" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="NetworkX" alt="NetworkX" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
+
+
+### 📊 My Stats :
+
+
+<!-- <div id="language" align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NuoLeiNYU)](https://git.io/streak-stats)
+</div> -->
+
+
+<div id="language" align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuoLeiNYU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+### 📚 Reference
+Much Thanks to the detailed [github profile building tutorial](https://www.sitepoint.com/github-profile-readme/) by [Nida Khan](https://www.sitepoint.com/author/nkhan/)!
+
