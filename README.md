@@ -20,12 +20,14 @@
 
 I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New York University. I love the satisfaction of delivering meaningful **insights** from real-world data👨‍💻. And I also enjoy the beauty of concise but informative **data visualization**📈.
 
+---
 ### 👔 More about me:
 - 🎓 Education: Current **data science** graduate student at [NYU Center for Data Science](https://cds.nyu.edu/). Undergraduate student at [UIBE](http://english.uibe.edu.cn/) major in **financial mathematics**. 
 - 📫 How to reach me: nuo.lei@nyu.edu or [![Linkedin Badge](https://img.shields.io/badge/-NuoLei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nuo-lei/)
 - 😄 Pronouns: He/him/his
 - ⚡ Favorite quote: *"In God we trust. All others must bring data."* -- by [W. Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming)
 
+---
 ### 🛠️ Languages and Tools:
 
 <div id="language" align="center">
@@ -45,7 +47,7 @@ I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-
+---
 ### 📊 My Stats :
 
 
@@ -60,6 +62,7 @@ I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuoLeiNYU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+---
 ### 📚 Reference
 Much Thanks to the detailed [github profile building tutorial](https://www.sitepoint.com/github-profile-readme/) by [Nida Khan](https://www.sitepoint.com/author/nkhan/)!
 
