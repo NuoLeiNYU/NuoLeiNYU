@@ -28,7 +28,7 @@ I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New 
 - ⚡ Favorite quote: *"In God we trust. All others must bring data."* -- by [W. Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming)
 
 ---
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and tools:
 
 <div id="language" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -47,8 +47,22 @@ I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
+
+
 ---
-### 📊 My Stats :
+### 🖥️ My projects
+
+#### Data Analysis
+
+- [Movie rating analysis](https://github.com/NuoLeiNYU/movie-rating-data-analysis)
+
+#### Recommender System
+
+- [KNN movie recommendation](https://github.com/NuoLeiNYU/movie-recommendation-system) with [online demo](https://nuolei-movie.streamlit.app)
+
+
+---
+### 📊 My stats :
 
 
 <!-- <div id="language" align="center">
@@ -63,10 +77,11 @@ I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New 
 </div>
 
 ---
-### ✍️ My Blog Posts
+### ✍️ My blogs
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 
 ---
