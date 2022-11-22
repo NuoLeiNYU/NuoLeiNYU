@@ -71,5 +71,5 @@ I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New 
 
 ---
 ### 📚 Reference
-Much Thanks to the detailed [github profile building tutorial](https://www.sitepoint.com/github-profile-readme/) by [Nida Khan](https://www.sitepoint.com/author/nkhan/)!
+Much thanks to the detailed [github profile building tutorial](https://www.sitepoint.com/github-profile-readme/) by [Nida Khan](https://www.sitepoint.com/author/nkhan/)!
 
