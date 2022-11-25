@@ -41,7 +41,7 @@ I love the satisfaction of delivering meaningful **insights** from real-world da
 
 - #### Recommender System
 
-  - [Movie recommender](https://github.com/NuoLeiNYU/movie-recommendation-system) with [online demo](https://nuolei-movie.streamlit.app): Use KNN and K-means to complete rating matrix and recommend movies for 1097 people based on like-minded people's ratings.
+  - [Movie recommender](https://github.com/NuoLeiNYU/movie-recommendation-system) with [online demo](https://nuolei-movie.streamlit.app): Basic model but fun application! Use KNN and K-means to complete rating matrix and recommend movies for 1097 people based on like-minded people's ratings.
 
 
 <!-- --- -->
