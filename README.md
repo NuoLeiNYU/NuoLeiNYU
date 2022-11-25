@@ -18,7 +18,10 @@
 
 ### 👋 Hi there 
 
-I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New York University. I love the satisfaction of delivering meaningful **insights** from real-world data👨‍💻. And I also enjoy the beauty of concise but informative **data visualization**📈.
+I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New York University. Looking forward doing interesting things with data science skills!
+
+<!-- 
+I love the satisfaction of delivering meaningful **insights** from real-world data👨‍💻. And I also enjoy the beauty of concise but informative **data visualization**📈.
 
 ---
 ### 👔 More about me:
@@ -27,7 +30,26 @@ I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New 
 - 😄 Pronouns: He/him/his
 - ⚡ Favorite quote: *"In God we trust. All others must bring data."* -- by [W. Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming)
 
+-->
+
 ---
+### 🖥️ Projects
+
+<!-- - #### Data Analysis
+
+  - [Movie rating analysis](https://github.com/NuoLeiNYU/movie-rating-data-analysis) -->
+
+- #### Recommender System
+
+  - [Movie recommender](https://github.com/NuoLeiNYU/movie-recommendation-system) with [online demo](https://nuolei-movie.streamlit.app): Use KNN and K-means to complete rating matrix and recommend movies for 1097 people based on like-minded people's ratings.
+
+
+<!-- --- -->
+<!-- ### ✍️ My blogs -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+--- 
 ### 🛠️ Languages and tools:
 
 <div id="language" align="center">
@@ -47,22 +69,10 @@ I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-
-
 ---
-### 🖥️ My projects
-
-#### Data Analysis
-
-- [Movie rating analysis](https://github.com/NuoLeiNYU/movie-rating-data-analysis)
-
-#### Recommender System
-
-- [KNN movie recommendation](https://github.com/NuoLeiNYU/movie-recommendation-system) with [online demo](https://nuolei-movie.streamlit.app)
 
 
----
-### 📊 My stats :
+<!-- ### 📊 My stats : -->
 
 
 <!-- <div id="language" align="center">
@@ -70,21 +80,16 @@ I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NuoLeiNYU)](https://git.io/streak-stats)
 </div> -->
 
-
+<!-- 
 <div id="language" align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuoLeiNYU)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
----
-### ✍️ My blogs
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</div> -->
 
 
 
----
+
+<!-- ---
 ### 📚 Reference
-Much thanks to the detailed [github profile building tutorial](https://www.sitepoint.com/github-profile-readme/) by [Nida Khan](https://www.sitepoint.com/author/nkhan/)!
+Much thanks to the detailed [github profile building tutorial](https://www.sitepoint.com/github-profile-readme/) by [Nida Khan](https://www.sitepoint.com/author/nkhan/)! -->
 
