@@ -35,13 +35,15 @@ I love the satisfaction of delivering meaningful **insights** from real-world da
 ---
 ### 🖥️ Projects
 
-<!-- - #### Data Analysis
 
-  - [Movie rating analysis](https://github.com/NuoLeiNYU/movie-rating-data-analysis) -->
+- #### Recommender system
 
-- #### Recommender System
+  - [Movie recommender](https://github.com/NuoLeiNYU/movie-recommendation-system) with [online demo](https://nuolei-movie.streamlit.app): Basic model but fun application! Use `KNN` to complete rating matrix and use `K-means` clustering movies to three genres. Finally recommend movies in the same genre based on like-minded people's ratings.
 
-  - [Movie recommender](https://github.com/NuoLeiNYU/movie-recommendation-system) with [online demo](https://nuolei-movie.streamlit.app): Basic model but fun application! Use KNN and K-means to complete rating matrix and recommend movies for 1097 people based on like-minded people's ratings.
+- #### Classification
+
+  - [Loan defualt prediction](https://github.com/NuoLeiNYU/loan-default-prediction): Predict loan default on imbalanced dataset by `SMOTE` upsampling and  `Logistic regression`, `SVM`, `Random forest`, `LightGBM`, `XGBoost`, achieving a best recall rate of **87%**.
+
 
 
 <!-- --- -->
