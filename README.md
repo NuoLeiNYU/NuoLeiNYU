@@ -42,7 +42,7 @@ I love the satisfaction of delivering meaningful **insights** from real-world da
 
 - #### Classification
 
-  - [Loan defualt prediction](https://github.com/NuoLeiNYU/loan-default-prediction) on [Kaggle notebook](https://www.kaggle.com/code/nyunuolei/loan-default-prediction): Predict loan default on imbalanced dataset by `SMOTE` upsampling and  `Logistic regression`, `SVM`, `Random forest`, `LightGBM`, `XGBoost`, achieving a best recall rate of **87%**.
+  - [Loan defualt prediction](https://github.com/NuoLeiNYU/loan-default-prediction) on [Kaggle notebook](https://www.kaggle.com/code/nyunuolei/loan-default-prediction): Predict loan default on imbalanced dataset by `SMOTE` upsampling and  `Logistic regression`, `SVM`, `Random forest`, `LightGBM`, `XGBoost`, achieving a best recall rate of **89%**.
 
 
 
