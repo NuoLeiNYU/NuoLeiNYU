@@ -18,7 +18,7 @@
 
 ### 👋 Hi there 
 
-I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at New York University. Looking forward to doing interesting things with data science skills!
+I'm Nuo Lei (/nuə/ /leɪ/), a current **Data Science** graduate student at [NYU Center for Data Science](https://cds.nyu.edu/). Looking forward to doing interesting things with data science skills!
 
 <!-- 
 I love the satisfaction of delivering meaningful **insights** from real-world data👨‍💻. And I also enjoy the beauty of concise but informative **data visualization**📈.
