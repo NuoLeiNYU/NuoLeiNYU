@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/nuo-lei/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://nuo-lei.medium.com/">
+  <!-- <a href="https://nuo-lei.medium.com/">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
+  </a> -->
 </div>
 
 <div id="counter" align="center">
@@ -32,7 +32,6 @@ I love the satisfaction of delivering meaningful **insights** from real-world da
 
 -->
 
----
 ### 🖥️ Projects
 
 
@@ -46,12 +45,12 @@ I love the satisfaction of delivering meaningful **insights** from real-world da
 
 
 
-<!-- --- -->
-<!-- ### ✍️ My blogs -->
+
+### ✍️ Blogs
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
---- 
+
 ### 🛠️ Languages and tools:
 
 <div id="language" align="center">
