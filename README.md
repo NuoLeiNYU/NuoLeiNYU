@@ -49,6 +49,7 @@ I love the satisfaction of delivering meaningful **insights** from real-world da
 ### ✍️ Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL Techniques: How to Use Multiple Where in One Column?](https://nuo-lei.medium.com/sql-techniques-how-to-use-multiple-where-in-one-column-a819a801b099?source=rss-f46e2802cd5e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🛠️ Languages and tools:
