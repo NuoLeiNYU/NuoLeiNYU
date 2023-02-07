@@ -49,6 +49,7 @@ I love the satisfaction of delivering meaningful **insights** from real-world da
 ### ✍️ Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL Techniques: How to Calculate Median &amp; Mode?](https://nuo-lei.medium.com/sql-techniques-how-to-calculate-median-mode-7787edcc2dd9?source=rss-f46e2802cd5e------2)
 - [SQL Techniques: How to Select from Snapshot Date?](https://nuo-lei.medium.com/sql-techniques-how-to-select-from-snapshot-date-366355f8ac94?source=rss-f46e2802cd5e------2)
 - [SQL Techniques: How to Do Permutations &amp; Combination?](https://nuo-lei.medium.com/sql-techniques-how-to-do-permutations-combination-67f4e1def5ab?source=rss-f46e2802cd5e------2)
 - [SQL Techniques: How to Impute NULL with Only the First Row?](https://nuo-lei.medium.com/sql-techniques-how-to-impute-null-with-only-the-first-row-b011b8f3bcb5?source=rss-f46e2802cd5e------2)
