@@ -49,6 +49,7 @@ I love the satisfaction of delivering meaningful **insights** from real-world da
 ### ✍️ Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL join &amp; where, which runs first?](https://nuo-lei.medium.com/sql-join-where-which-runs-first-e5e60dcb04b7?source=rss-f46e2802cd5e------2)
 - [SQL Techniques: How to Deal with Date &amp; Time?](https://nuo-lei.medium.com/sql-techniques-how-to-deal-with-date-time-f26c7ff5e51d?source=rss-f46e2802cd5e------2)
 - [SQL Techniques: How to Calculate Median &amp; Mode?](https://nuo-lei.medium.com/sql-techniques-how-to-calculate-median-mode-7787edcc2dd9?source=rss-f46e2802cd5e------2)
 - [SQL Techniques: How to Select from Snapshot Date?](https://nuo-lei.medium.com/sql-techniques-how-to-select-from-snapshot-date-366355f8ac94?source=rss-f46e2802cd5e------2)
